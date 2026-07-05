@@ -13,7 +13,6 @@
     "lucide-react": "^0.395.0",
     "react": "^19.2.7",
     "react-dom": "^19.2.7",
-    "sarunis-bk-counseling": "file:..",
     "socket.io-client": "^4.7.5"
   },
   "devDependencies": {
